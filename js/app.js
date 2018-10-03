@@ -6,8 +6,6 @@ const clearBtn = document.querySelector('.clear-tasks');
 const filter = document.querySelector('#filter');
 /* Prvo smo definisali sta hocemo da menjamo */
 
-
-
 //// Load all event listeners 
 loadEventListeners();
 /*Pozivamo funkciju koja jeos nije definisana(bice definisana ispod)*/
